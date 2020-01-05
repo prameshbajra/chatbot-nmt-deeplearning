@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "chatbot_venv/bin/python3.6",
+    "python.formatting.provider": "autopep8"
+}
